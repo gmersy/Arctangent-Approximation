@@ -1,5 +1,3 @@
-// CSCI 1113 HW 4 Problem A
-// Gabe Mersy
 #include <iostream>
 #include <cmath>
 #include <iomanip>
